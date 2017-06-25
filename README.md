@@ -1,2 +1,2 @@
 # JoshieScript_Win
-JoshieScript interpreter for Windows
+A JoshieScript interpreter for Windows
